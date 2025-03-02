@@ -40,6 +40,7 @@ This project explores **mental health discussions on Twitter** using **Natural L
 ### **3️⃣ Model Evaluation & Visualization**
 - **Coherence Score**: Assessed topic quality and interpretability.
 - **Intertopic Distance Map**: Visualized topic relationships.
+
 ![image](https://github.com/user-attachments/assets/10c51e27-c67e-4747-bc3c-2c0c4e15e647)
 
 - **Topic Similarity Heatmap**: Highlighted overlapping themes.
@@ -56,14 +57,8 @@ This project explores **mental health discussions on Twitter** using **Natural L
 ✅ **BERTopic provided superior results** compared to LDA, yielding clearer and more structured topics.
 ✅ **Key themes** included mental health awareness, anxiety, depression, therapy, and the impact of social media.
 ✅ **External influences** such as **COVID-19** and **political discourse** were detected.
-✅ Reducing the number of topics **from 289 to 34 improved interpretability and coherence**.
+✅ Reducing the number of topics **from 289 to 37 improved interpretability and coherence**.
 
-## **⚠️ Limitations & Future Enhancements**
-- **Data Quality**: Some tweets were irrelevant; improved filtering is needed.
-- **Short-Text Challenge**: Contextual embeddings (e.g., **GPT-based models**) could enhance topic accuracy.
-- **Overlapping Topics**: Future research could apply **automated topic merging** techniques.
-- **Sentiment Analysis Integration**: Combining sentiment classification can offer **deeper emotional insights**.
-- **Real-Time Monitoring**: Future studies can explore **live tracking of mental health discussions**.
 
 ## **🚀 How to Run the Project**
 ### **🔹 Prerequisites**
