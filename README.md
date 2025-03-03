@@ -54,9 +54,9 @@ This project explores **mental health discussions on Twitter** using **Natural L
 
 
 ## **📊 Key Insights & Findings**
-✅ **BERTopic provided superior results** compared to LDA, yielding clearer and more structured topics.
-✅ **Key themes** included mental health awareness, anxiety, depression, therapy, and the impact of social media.
-✅ **External influences** such as **COVID-19** and **political discourse** were detected.
+✅ **BERTopic provided superior results** compared to LDA, yielding clearer and more structured topics.<br>
+✅ **Key themes** included mental health awareness, anxiety, depression, therapy, and the impact of social media.<br>
+✅ **External influences** such as **COVID-19** and **political discourse** were detected.<br>
 ✅ Reducing the number of topics **from 289 to 37 improved interpretability and coherence**.
 
 
