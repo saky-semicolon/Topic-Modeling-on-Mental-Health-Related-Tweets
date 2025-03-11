@@ -36,6 +36,10 @@ This project explores **mental health discussions on Twitter** using **Natural L
 - Used **CountVectorizer & Transformer-based embeddings**.
 - Applied **UMAP for dimensionality reduction & HDBSCAN for clustering**.
 - Initially extracted **289 topics**, later refined to **34 coherent topics**.
+- The **Post-Processing** step improved topic refinement, ensuring a more structured and coherent topic distribution and reducing the topic numbers to 9.
+  
+![image](https://github.com/user-attachments/assets/66c87bff-7788-45d8-bcf8-a48a304d3bd9)
+ 
 
 ### **3️⃣ Model Evaluation & Visualization**
 - **Coherence Score**: Assessed topic quality and interpretability.
@@ -43,8 +47,16 @@ This project explores **mental health discussions on Twitter** using **Natural L
 
 ![image](https://github.com/user-attachments/assets/10c51e27-c67e-4747-bc3c-2c0c4e15e647)
 
+- **Intertopic Distance Map after Post-Processing**:
+![image](https://github.com/user-attachments/assets/46d32056-7c56-4d46-9546-3c2543d14b73)
+
+
 - **Topic Similarity Heatmap**: Highlighted overlapping themes.
 ![image](https://github.com/user-attachments/assets/e688e799-4513-4ac4-90fd-d5bce38b7538)
+
+- **Topic Similarity Heatmap after Post-Processing:**
+![image](https://github.com/user-attachments/assets/3f5a1066-008b-4e44-b046-457223065e66)
+
 
 - **Topic Distribution Bar Chart**: Identified dominant discussion points.
 ![image](https://github.com/user-attachments/assets/e0fd28d3-4589-4d7b-ba4a-0224c6447284)
